@@ -20,3 +20,16 @@ Take value from the user, assigns it in a variable for Kilometers and convert it
 ~~~
 3.10686
 ~~~
+
+
+<br>
+
+
+<details open>
+<summary> Answer </summary>
+<br>
+
+[Check the direct answer from here!](answer.py)
+
+</details>
+
