@@ -25,7 +25,7 @@ Take value from the user, assigns it in a variable for Kilometers and convert it
 <br>
 
 
-<details open>
+<details>
 <summary> Answer </summary>
 <br>
 
