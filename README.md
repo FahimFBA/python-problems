@@ -8,3 +8,4 @@
 | 04 | Find the greatest among 3 values | [Explanation](https://www.youtube.com/watch?v=uwJJrZQhlDY&list=PLutHME8vSEnEbU31rqE91E589dbTm5x1T&index=5) | [Source Code](https://github.com/FahimFBA/python-problems/blob/main/Problem%204/solve.py) |
 | 05 | Get Calendar of Any Month and Any Year using only 4 Lines Python script!| [Explanation](https://www.youtube.com/watch?v=mBUqU1JpyHg&list=PLutHME8vSEnEbU31rqE91E589dbTm5x1T&index=6) | [Source Code](https://github.com/FahimFBA/python-problems/blob/main/Problem%205/solve.py)|
 | 06 | Identify whether a character is alphabet or not using Python | [Explanation](https://www.youtube.com/watch?v=PUS4sNxwnMY&list=PLutHME8vSEnEbU31rqE91E589dbTm5x1T&index=7) | [Source Code](https://github.com/FahimFBA/python-problems/blob/main/Problem%206/solve.py) |
+| 07 | Find the area of a triangle | [Explanation]() | [Source Code](https://github.com/FahimFBA/python-problems/blob/main/Problem%207/solve.py) |
