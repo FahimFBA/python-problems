@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# python-problems
 
-You can use the [editor on GitHub](https://github.com/FahimFBA/python-problems/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FahimFBA/python-problems/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+| Question ID  | Question  | Solution (YouTube)  | Source Code  |
+|:-------------:|:----------:|:--------------------:|:-------------:|
+|   01           |    Take value from the user, assigns it in a variable for Kilometers and convert it to Miles. Later, simply print that out!       |      [Explanation](https://www.youtube.com/watch?v=6h6bs6NEYAk&list=PLutHME8vSEnEbU31rqE91E589dbTm5x1T&index=2)               |  [Source Code](https://github.com/FahimFBA/python-problems/tree/main/Problem%201)            |
+|      02        |       Take three int values from the user, and find the greatest among them.    |       [Explanation](https://www.youtube.com/watch?v=uwJJrZQhlDY&list=PLutHME8vSEnEbU31rqE91E589dbTm5x1T&index=5)              |        [Source Code](https://github.com/FahimFBA/python-problems/tree/main/Problem%202)      |
+|      03        |  Find the factorial of a number using the recursive function         |         [Explanation](https://www.youtube.com/watch?v=AYLkdMfj2yc&list=PLutHME8vSEnEbU31rqE91E589dbTm5x1T&index=4)            |       [Source Code](https://github.com/FahimFBA/python-problems/blob/main/Problem%203/solve.py)       |
+| 04 | Find the greatest among 3 values | [Explanation](https://www.youtube.com/watch?v=uwJJrZQhlDY&list=PLutHME8vSEnEbU31rqE91E589dbTm5x1T&index=5) | [Source Code](https://github.com/FahimFBA/python-problems/blob/main/Problem%204/solve.py) |
+| 05 | Get Calendar of Any Month and Any Year using only 4 Lines Python script!| [Explanation](https://www.youtube.com/watch?v=mBUqU1JpyHg&list=PLutHME8vSEnEbU31rqE91E589dbTm5x1T&index=6) | [Source Code](https://github.com/FahimFBA/python-problems/blob/main/Problem%205/solve.py)|
+| 06 | Identify whether a character is alphabet or not using Python | [Explanation](https://www.youtube.com/watch?v=PUS4sNxwnMY&list=PLutHME8vSEnEbU31rqE91E589dbTm5x1T&index=7) | [Source Code](https://github.com/FahimFBA/python-problems/blob/main/Problem%206/solve.py) |
